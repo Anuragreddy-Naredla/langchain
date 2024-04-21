@@ -1,0 +1,4 @@
+-> The api's will interact with the paid or opensource LLM models.
+
+##### to run #####
+http://localhost:8000/docs
